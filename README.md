@@ -1,5 +1,8 @@
 # 💫 About Me:
-Hi there & I am SANTHEESH S<br>I am a frontend developer ,computer engineering undergraduate speaker who currently works as a Frontend developer on various projects.<br>Aside coding fun projects teaching others how to code, > speaking at events and Il learning new things. Some of my _ projects are available here<br>I'm looking for speaking and technical writing opportunities and frontend development <br>( Ask me about HTML/CSS, Javascript and Content creation . Front End Web Developer🔭
+Hey there! I’m SANTHEESH S 👋
+I'm a frontend developer and a passionate Computer Science Engineering undergraduate. Whether it’s creating dynamic web applications, mentoring budding coders, or delivering talks on tech, I thrive in engaging and creative environments. I'm driven by a love for coding and a curiosity to explore new frameworks, tools, and languages to keep improving my craft.
+
+I’m actively seeking opportunities in public speaking, technical writing, and frontend development. As someone who’s as enthusiastic about code as about community, I enjoy sharing my knowledge with others, especially on HTML/CSS, JavaScript, and content creation. Always excited to connect with like-minded individuals, so feel free to reach out!
 
 
 ## 🌐 Socials:
