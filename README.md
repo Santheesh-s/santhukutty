@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there & I am Glory Praise<br>I am a frontend developer ,computer engineering undergraduate speaker who currently works as a Frontend developer on various projects.<br>Aside coding fun projects teaching others how to code, > speaking at events and Il learning new things. Some of my _ projects are available here<br>I'm looking for speaking and technical writing opportunities and frontend development <br>( Ask me about HTML/CSS, Javascript and Content creation . Front End Web Developer🔭
+Hi there & I am SANTHEESH S<br>I am a frontend developer ,computer engineering undergraduate speaker who currently works as a Frontend developer on various projects.<br>Aside coding fun projects teaching others how to code, > speaking at events and Il learning new things. Some of my _ projects are available here<br>I'm looking for speaking and technical writing opportunities and frontend development <br>( Ask me about HTML/CSS, Javascript and Content creation . Front End Web Developer🔭
 
 
 ## 🌐 Socials:
