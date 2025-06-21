@@ -1,10 +1,12 @@
 import { useRef} from 'react'
+import './App.css'
+import './index.css'
 function Form() {
 const inputRef=useRef();
 
 const handleSubmit=(e)=>{
   e.preventDefault();
-  alert(`Submitted Name: ${inputRef.current.value}`);
+  alert(`Submitted Name : ${inputRef.current.value}`);
 
 };
   return (
